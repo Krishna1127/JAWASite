@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-25T23:46:33 IST" name="Default suite" finished-at="2021-02-25T23:47:00 IST" duration-ms="27343">
+    <groups>
+    </groups>
+    <test started-at="2021-02-25T23:46:33 IST" name="Default test" finished-at="2021-02-25T23:47:00 IST" duration-ms="27343">
+      <class name="TestSuite.New42BookOnlineJourney">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestSuite.New42BookOnlineJourney@69b2283a]" started-at="2021-02-25T23:46:33 IST" name="setup" finished-at="2021-02-25T23:46:39 IST" duration-ms="6372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="code()[pri:0, instance:TestSuite.New42BookOnlineJourney@69b2283a]" started-at="2021-02-25T23:46:39 IST" name="code" finished-at="2021-02-25T23:46:56 IST" duration-ms="16823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- code -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestSuite.New42BookOnlineJourney@69b2283a]" started-at="2021-02-25T23:46:56 IST" name="teardown" finished-at="2021-02-25T23:47:00 IST" duration-ms="4124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestSuite.New42BookOnlineJourney -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
